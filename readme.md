@@ -1,15 +1,16 @@
 Th.ArtGame -- TheArtGame
 Combining Art with learning Rust and bevy the rust game engine
 
-Th because this is the artists signature on the paintings.
-Which stands for Therese P., my mother in law, which passed away 2023. She was really a very skilled painter 
-without any audiance except her family and some friends.
-While searching a project for learning Rust I came across 
-like to show here paintings while learing Rust and the bevy game engine.
+Th because this is the artists signature on the paintings. Which stands for Therese P., my mother in law, which passed away 2023. She was really a very skilled painter without any audiance, except her family and some friends. While searching a project for learning Rust I came across bevy. While I was never into games, I got some interest into bevys ECS. And since I wanted to show her paintings this is simply an interesting combination.
+
+The current version is far away from some dreamy I have, so it lets enough room for me to learn. But also for you if you would like. These are things I can imagine to do.
+Having a version running in the browser would be especially cool.
+
 
 ToDo list:
-- adjust the pictures to there real size according to a list
+- adjust the pictures to there real size according to a list (Done)
 - add more paintings. There are about 30 paintings available. But not all are scanned yet
+- create room for paintings. Possibly still without ceiling to be able to fly
 - create frames around the pictures
 - add a spot light to each painting
 - add some additional detailed pictured when zoom it a lot or upon any other action. I have zoom ins as well as side and back views.
