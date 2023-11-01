@@ -1,6 +1,6 @@
-#Th.ArtGame -- TheArtGame
+# Th.ArtGame -- TheArtGame
 
-##Combining Art with learning Rust and bevy the rust game engine
+## Combining Art with learning Rust and bevy the rust game engine
 
 Th because this is the artists signature on the paintings. Which stands for Therese P., my mother in law, which passed away 2023. She was really a very skilled painter without any audiance, except her family and some friends. While searching a project for learning Rust I came across bevy. While I was never into games, I got some interest into bevys ECS. And since I wanted to show her paintings this is simply an interesting combination.
 
