@@ -7,8 +7,13 @@ Th because this is the artists signature on the paintings. Which stands for Ther
 The current version is far away from some dreamy I have, so it lets enough room for me to learn. But also for you if you would like. These are things I can imagine to do.
 Having a version running in the browser would be especially cool.
 
+### how to use
+'cargo run' to start
+Steering the fleying camera by WASD,shift, space and the mouse. ESC to grab/release the cursor
+See: https://github.com/sburris0/bevy_flycam
 
-ToDo list:
+
+### ToDo list:
 - adjust the pictures to there real size according to a list (Done)
 - add more paintings. There are about 30 paintings available. But not all are scanned yet
 - create room for paintings. Possibly still without ceiling to be able to fly
